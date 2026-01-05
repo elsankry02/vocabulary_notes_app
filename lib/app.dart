@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vocabulary_notes_app/core/router/router.dart';
+import 'core/router/router.dart';
 
 class VocabularyNotesApp extends StatelessWidget {
   const VocabularyNotesApp({super.key});

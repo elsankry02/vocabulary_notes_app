@@ -1,6 +1,6 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:vocabulary_notes_app/features/details_page/presentation/view/details_page.dart';
-import 'package:vocabulary_notes_app/features/home_page/presentation/view/home_page.dart';
+import '../../features/presentation/details_page/view/details_page.dart';
+import '../../features/presentation/home_page/view/home_page.dart';
 
 part 'router.gr.dart';
 
